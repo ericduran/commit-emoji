@@ -15,6 +15,7 @@ List of Emojis for commits:
 #####* :non-potable_water: when plugging memory leaks
 #####* :memo: when writing docs
 #####* :bulb: New Idea
+#####* :bangbang: DEV Certified (No QA Needed)
 
 Example:
 

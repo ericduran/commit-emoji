@@ -16,6 +16,12 @@ List of Emojis for commits:
 #####* :memo: when writing docs
 #####* :bulb: New Idea
 #####* :bangbang: DEV Certified (No QA Needed)
+#####* :construction: Work in Progress
+#####* :skull: when removing code or feature
+#####* :flashlight: when adding logging
+#####* :speak_no_evil: or :mute: when reducing logging
+#####* :ambulance: when fixing bugs
+#####* :checkered_flag: when bumping version number
 
 Example:
 

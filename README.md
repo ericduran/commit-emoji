@@ -22,6 +22,7 @@ List of Emojis for commits:
 #####* :speak_no_evil: or :mute: when reducing logging
 #####* :ambulance: when fixing bugs
 #####* :checkered_flag: when bumping version number
+#####* :arrow_up: when upgrading a module / component
 
 Example:
 
